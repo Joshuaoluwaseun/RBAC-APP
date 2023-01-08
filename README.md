@@ -14,3 +14,7 @@ NodeJS,
 Express,
 MongoDB, 
 Mongoose
+
+
+## Payload
+![copy](https://user-images.githubusercontent.com/80100485/211212839-54cb3841-f0e7-4643-9c2e-39a217379545.png)
