@@ -8,6 +8,7 @@ A simple RBAC system that defines the scope of access and level of operations fo
 
 With authentication and authorization implemented, users can register, login and set roles.
 Some user and todo routes such as getUser, getUsers, updateUser and updateUsers are protected. I also used the accessToken package of npm for setting the permissions.
+I also used winston to log errors.
 
  ## Technologies used ##
 NodeJS,
